@@ -65,12 +65,12 @@ x=-4.
 <img src="./u_6.png" alt="u_6" width="400">
 <img src="./u_10.png" alt="u_10" width="400">
 
-#### Reynolds stress at x=-4, 1, 4, 6, 10
-<img src="./uv_m4.png" alt="uv_m4" width="400">
-<img src="./uv_1.png" alt="uv_1" width="400">
-<img src="./uv_4.png" alt="uv_4" width="400">
-<img src="./uv_6.png" alt="uv_6" width="400">
-<img src="./uv_10.png" alt="uv_10" width="400">
+<!-- #### Reynolds stress at x=-4, 1, 4, 6, 10 -->
+<!-- <img src="./uv_m4.png" alt="uv_m4" width="400"> -->
+<!-- <img src="./uv_1.png" alt="uv_1" width="400"> -->
+<!-- <img src="./uv_4.png" alt="uv_4" width="400"> -->
+<!-- <img src="./uv_6.png" alt="uv_6" width="400"> -->
+<!-- <img src="./uv_10.png" alt="uv_10" width="400"> -->
 
 #### Skin friction coefficient
 <img src="./cf.png" alt="Cf" width="400">
